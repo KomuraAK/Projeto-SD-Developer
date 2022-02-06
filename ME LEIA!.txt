@@ -1,0 +1,41 @@
+Esse software tem a finalidade de autenticar um usuário para entrar em um dashboard gráfico na web.
+
+Atenção, no aplicativo não foi utilizado Excel, SQL ou qualquer banco de dados nesse projeto, visto que é um sistema simples que não consome muitos recursos!
+
+As tecnologias usadas nesse projeto, são:
+
+- HTML
+- CSS
+- JavaScript 
+- NodeJs
+- Python
+- Bootstrap
+- Json
+
+É necessário para o software funcionar:
+
+- Nodemon
+- Express
+- Ejs
+- Body-parser
+- Express-session
+- Dash
+- Plotly.express
+- Pandas
+- Pip atualizado
+
+Caso ele não funcione, instale os requisitos acima dentro do diretório!
+
+Para utilizar o software, deve seguir esse passo a passo:
+
+1º Abrir dois terminais
+2º Ir até a pasta destino "Projeto SD Developer", nos dois terminais, usando o comando cd <próximo diretório>
+3º Em um terminal, executar o seguinte comando: nodemon app.js. No outro terminal, executar o seguinte comando: python app.py
+4º Após executar os dois comandos, entre no seu navegador e digite na URL: http://localhost:3000/
+5º Siga as instruções do site e faça bom uso do aplicativo!
+
+
+
+Obrigado pela atenção.
+
+Atenciosamente, Anthony Farias.
